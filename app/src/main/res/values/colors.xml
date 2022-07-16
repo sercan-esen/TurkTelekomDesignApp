@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#7EBDC6</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="custom_gray">#F0EFF3</color>
+    <color name="story_color">#439FA5</color>
+    <color name="arrow_color_yellow">#CCDE06</color>
+    <color name="kalan_kullanim_color_background">#f6f6f6</color>
+    <color name="progresbar_trackcolor">#e8e8e9</color>
+    <color name="arrow_color_blue">#0c7ec6</color>
+    <color name="arrow_color_red">#dd3517</color>
+    <color name="kalan_kullanim_title_text_color">#4F546C</color>
+    <color name="fab_image_button_bg_color">#daf8f8</color>
+    <color name="fab_image_view_bg_color">#91d7e1</color>
+
+
+</resources>
